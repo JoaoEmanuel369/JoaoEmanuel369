@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🌱 Atualmente estou cursando o ensino superior, no Centro Universitário de Patos de Minas (UNIPAM), no curso de Sistemas de Informação, mas já sou formado como técnico de informática de acordo com o curso Trilhas do Futuro disponibilizado pela educação de Minas Gerais.<br>👯 Desenvolvimento e criação de projetos; designs, desenvolvimento de jogos e softwares, Front End de sites, edição de vídeos<br>💬 Me chame se precisar de ajuda em projetos independentes, que envolvam o desenvolvimento de softwares ou desenho dos mesmos
 
 
